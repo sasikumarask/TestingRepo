@@ -1,1 +1,1 @@
-First TC Created and defect tested
+First TC Created and defect resolved
