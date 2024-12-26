@@ -1,1 +1,4 @@
 First TC Created and defect retested
+
+First TC Created and defect resolved
+
